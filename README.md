@@ -3,13 +3,12 @@
 ### 💫 About Me:
 
 🔭 I’m currently working on     
-1. Mobile Apps<br>     
+1. AI Cybersecurity Research<br>
 2. Website development <br><br>
 
  🌱 I’m currently learning    
-1. Game Development <br>     
-2. Immersive Technologies (VR,AR & MR) <br>     
-3. AI & ML Technologies<br><br>
+1. Natural Language Processing<br>     
+2. Machine Learning<br><br>
 
  💬 Ask me about<br>      
 1. My journey with AI <br>     
@@ -17,7 +16,7 @@
 3. My super power<br><br>
 
 ⚡Fun fact<br>
-1. I can communicate in more programming languages than human languages.
+1. I can understand more programming languages than human languages.
 2. I once named my variables after characters from 'Spongebob' and had to explain why 'Squidward' threw an exception
    
 # 💻 Tech Stack:
